@@ -3,3 +3,6 @@ main: me.awesomemoder316.trickydeserttemples.Main
 author: Awesomemoder316
 api-version: 1.16
 version: 1.0.0
+permissions:
+  trickyDesertTemples.updater:
+    default: op
