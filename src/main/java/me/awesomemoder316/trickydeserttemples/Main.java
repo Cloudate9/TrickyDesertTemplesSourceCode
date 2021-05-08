@@ -22,8 +22,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main extends JavaPlugin implements Listener {
-    private boolean update = false;
-    private boolean firstUpdateCheck = true;
 
     @Override
     public void onEnable() {
